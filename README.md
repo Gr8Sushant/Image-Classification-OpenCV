@@ -18,7 +18,6 @@ Image recognition and classification
  
   
 ### Some Project snapshots :soccer:
-![plot](./ss/main.png)
-
-![plot](./ss/admin.png)
+![plot](./model/project_snapshots/1.png)
+![plot](./model/project_snapshots/2.png)
 
